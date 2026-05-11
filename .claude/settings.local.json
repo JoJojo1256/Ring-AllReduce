@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /Users/Jo/CS1680/networks_container/home/tcp-tcp-jojo-jeff/linearr1h2/)",
+      "Read(//Users/Jo/CS1680/networks_container/home/tcp-tcp-jojo-jeff/linearr1h2/**)",
+      "Bash(ls -la /Users/Jo/CS1680/networks_container/home/ip-jojo-jeff/linearr1h2/)",
+      "Read(//Users/Jo/CS1680/networks_container/home/ip-jojo-jeff/linearr1h2/**)",
+      "Bash(find /Users/Jo/CS1680/networks_container/home/tcp-tcp-jojo-jeff/linearr1h2 -type f)"
+    ]
+  }
+}
