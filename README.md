@@ -1,5 +1,7 @@
 # Collective Communication Algorithms for Distributed Training
 
+> If the video doesn't work, here is a link: https://www.loom.com/share/d5b4429eb9e249dc95307492ce6adb7e
+
 CSCI 1680 Final Project — Jo & Jeff
 
 Implementation of two AllReduce algorithms used in large-scale distributed ML training: a naive parameter-server approach and Ring-AllReduce. Simulated using Go processes communicating over TCP on a single machine, with per-link bandwidth limiting to model dedicated network hardware.
